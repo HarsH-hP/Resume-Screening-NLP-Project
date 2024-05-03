@@ -10,7 +10,7 @@ The Career Navigator uses two distinct datasets to train and evaluate its algori
 
 - **Automated Resume Screening**: Implements NLP techniques to process and analyze resumes, facilitating quick categorization.
 - **Job Recommendation System**: Utilizes cosine similarity to suggest the top five most suitable job categories for applicants.
-- **User-Friendly Interface**: Provides an easy-to-use interface for users to upload resumes and receive job suggestions.
+- **Resume & Job Description Match: Shows how well the resume is matching with the job description.
 
 ## Technologies Used
 
