@@ -1,0 +1,31 @@
+Generate comprehensive technical documentation for this [class/method/component] suitable for professional portfolio use. Focus on:
+
+1. **Technical Implementation**:
+   - Core algorithms/logic (without proprietary business rules)
+   - Design patterns and architectural approaches
+   - Performance optimizations implemented
+   - Error handling and resilience patterns
+
+2. **Technologies & Frameworks**:
+   - List specific libraries, frameworks, SDKs used
+   - Versioning considerations if relevant
+   - Integration patterns with external systems (generic descriptions)
+
+3. **Key Features & Capabilities**:
+   - What problems it solves (in generic terms)
+   - Scalability aspects
+   - Maintenance and extensibility features
+
+4. **Quantifiable Impact** (use placeholders):
+   - "Improved processing efficiency by [X]%"
+   - "Reduced manual effort by [Y] hours/week"
+   - "Enhanced system reliability achieving [Z]% uptime"
+
+**CRITICAL CONFIDENTIALITY REQUIREMENTS**:
+- DO NOT include company names, client names, or proprietary domain terminology
+- DO NOT reveal specific business processes or workflows
+- DO NOT include internal system names or URLs
+- Genericize all examples and use cases
+- Replace sensitive data patterns with descriptions like "handles data transformation pipelines" or "manages workflow orchestration"
+
+Format the output in clear sections with bullet points for readability.

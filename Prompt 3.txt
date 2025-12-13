@@ -1,0 +1,12 @@
+Based on this code/documentation, create 3-5 professional resume bullet points that:
+1. Start with strong action verbs (Architected, Developed, Optimized, etc.)
+2. Quantify achievements where possible (use [METRIC] placeholders)
+3. Highlight technical skills and methodologies
+4. Show business impact in generic terms
+5. Follow the STAR method structure (Situation, Task, Action, Result)
+
+Example format:
+- "Designed and implemented a scalable automation solution using [Technology] that reduced processing time by [X]%"
+- "Architected a fault-tolerant system handling [Y] transactions daily with 99.9% reliability"
+
+Avoid any confidential specifics.
